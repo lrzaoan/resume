@@ -13,7 +13,7 @@
  - 女/1990 
  - 本科/洛阳师范学院软件工程专业
  - 工作年限：3年
- - Github：http://github.com/geekcompany 
+ - Github：https://github.com/lihuiping
 
  - 期望职位：Web前端工程师
  - 期望薪资：6500-8000
